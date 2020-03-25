@@ -15,7 +15,8 @@ title: 下载 Qv2ray
 1. 在浏览器中打开 [Qv2ray GitHub Release 页面](https://github.com/Qv2ray/Qv2ray/releases) 。
 2. 选择一个 Release 版本。 或者直接下载[最新版](https://github.com/Qv2ray/Qv2ray/releases/latest)。
 3. 选择一个能在你的系统平台上运行的软件版本，然后下载。 例如:
-   - 对于 Windows 64/32bit 用户： `Qv2ray.VERSION.win-x64/x86.zip`
+   - 对于 Windows x64 用户： `Qv2ray.VERSION.win-x64.zip`
+   - 对于 Windows x86 / ARM64 用户：`Qv2ray.VERSION.win-x86.zip`
    - 对于 Linux 64bit 用户：`Qv2ray.VERSION.linux-x64.AppImage`
    - 对于 macOS 用户： `Qv2ray.VERSION.macOS-x64.tar.gz`
    - 对于 Ubuntu 19.04 / Debian 10 (或更高)： `qv2ray_VERSION_amd64.deb`
